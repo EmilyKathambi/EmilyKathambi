@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif"  />
+<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif"  />
 
 ###
 
@@ -78,6 +78,9 @@
   </a>
   <a href="https://x.com/EmilyKMwenda" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/emily__kathambi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
 
