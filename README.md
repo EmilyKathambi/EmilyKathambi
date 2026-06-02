@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Emily Kathambi 👋
+
+Software Engineer passionate about building reliable business systems, APIs, and integrations that solve real-world problems.
+
+About Me
+🎓 Bachelor of Science in Software Engineering
+💼 Experience developing enterprise applications and ERP solutions
+🔗 Built integrations with KRA eTIMS and other third-party APIs
+📊 Worked on procurement, finance, reporting, and workflow automation systems
+🌱 Currently exploring cloud technologies, secure software development, and fintech systems
+🚀 Interested in Backend Engineering, Fintech, Cybersecurity, and AI
+Tech Stack
+
+Languages
+
+PHP
+JavaScript
+TypeScript
+SQL
+
+Frameworks & Tools
+
+Laravel
+Node.js
+REST APIs
+Docker
+Git
+
+Databases
+
+SQL Server
+PostgreSQL
+MySQL
+
+Cloud & DevOps
+
+AWS
+Azure
+CI/CD
