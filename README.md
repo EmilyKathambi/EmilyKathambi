@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Emily Kathambi</h2>
+<h2 align="center">Hi there, I'm Emily Kathambi</h2>
 
 ###
 
